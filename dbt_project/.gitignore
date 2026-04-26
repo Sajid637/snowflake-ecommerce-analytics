@@ -1,4 +1,14 @@
+# Credentials - NEVER push to GitHub
+.env
 
-target/
-dbt_packages/
+# Data files - too large
+data/
+
+# Logs
 logs/
+dbt_project/logs/
+dbt_project/target/
+
+# Python cache
+__pycache__/
+*.pyc
