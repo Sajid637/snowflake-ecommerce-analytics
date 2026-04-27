@@ -46,3 +46,19 @@ Every push to `main` automatically:
 ## 📦 Dataset
 Brazilian E-Commerce dataset by Olist (100K+ orders)
 Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
+## 📊 Power BI Dashboard
+
+### Page 1 — Sales Overview
+<img width="857" height="486" alt="image" src="https://github.com/user-attachments/assets/4fdb2413-08ce-45bb-b754-5fb5393b104b" />
+
+
+### Page 2 — Customer Analysis  
+<img width="876" height="484" alt="image" src="https://github.com/user-attachments/assets/4a3897b3-feb5-4e78-b813-c8d316671324" />
+
+
+### Page 3 — Product Performance
+![Product Performance]
+<img width="862" height="529" alt="image" src="https://github.com/user-attachments/assets/fa476a71-6f9c-4d3a-89b2-8298deddbe6d" />
+
