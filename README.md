@@ -59,6 +59,6 @@ Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 
 ### Page 3 — Product Performance
-![Product Performance]
+
 <img width="862" height="529" alt="image" src="https://github.com/user-attachments/assets/fa476a71-6f9c-4d3a-89b2-8298deddbe6d" />
 
